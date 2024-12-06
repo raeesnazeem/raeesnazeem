@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 👋 I'm Raees Nazeem
+Welcome to my GitHub profile! Here's a bit about me:
 
-<!--
-**raeesnazeem/raeesnazeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+💻 I’m passionate about JavaScript and TypeScript development.
+🌐 I build dynamic and scalable web applications using React and Angular.
+🖥️ I love working on WordPress Development projects to create custom themes and plugins.
+📚 Always eager to learn and explore new technologies in the world of web development.
 
-Here are some ideas to get you started:
+🔧 Technologies & Tools
+Languages: JavaScript, TypeScript
+Frontend Frameworks: React, Angular
+CMS Expertise: WordPress
+Tools: Git, VS Code, Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+Feel free to explore my repositories and reach out if you'd like to collaborate on exciting projects!
 -->
