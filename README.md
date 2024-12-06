@@ -10,6 +10,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 🔧 Technologies & Tools
 Languages: JavaScript, TypeScript
 Frontend Frameworks: React, Angular
+
 CMS Expertise: WordPress
 Tools: Git, VS Code, Figma
 
