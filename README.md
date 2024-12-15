@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Raees Nazeem
-Welcome to my GitHub profile! Here's a bit about me:
+Welcome to my GitHub profile!
 
-🚀 About Me
+🚀 Here's a bit About Me
 💻 I’m passionate about JavaScript and TypeScript development.
 🌐 I build dynamic and scalable web applications using React and Angular.
 🖥️ I love working on WordPress Development projects to create custom themes and plugins.
